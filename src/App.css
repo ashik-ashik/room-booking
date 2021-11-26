@@ -1,0 +1,85 @@
+
+
+/* common */
+img{
+    max-width: 100%;
+}
+.service-detail img{
+    width: 100%;
+}
+
+/* menu active */
+.active{
+    color: #fff;
+    font-weight: 600;
+}
+
+/* home */
+.banner {
+    background: #000000a6 url(https://i.ibb.co/bgzv2m4/slider3.jpg) center;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+.banner2 {
+    background: #000000a6 url(https://i.ibb.co/Ttmf0wT/hotel-4.jpg) center;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
+
+/* not found page */
+#page-not-found .not-found{
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.button-box{
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* footer */
+.subscribe-btn{
+    border-top-right-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
+}
+.subscribe-input{
+    border-top-left-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
+}
+
+
+
+
+
+
+
+/* 
+ */
+ .login-page{
+     background: #030224bd url(https://i.ibb.co/bgzv2m4/slider3.jpg) center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-blend-mode: multiply;
+ }
+ .ragister-page{
+     background: #05215fce url(https://i.ibb.co/jJqqcvZ/slider1.jpg) center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-blend-mode: multiply;
+ }
+ .number-type::-webkit-inner-spin-button{
+     appearance: none !important;
+ }
+
+ .home-hero{
+     height: 70vh;
+     background: #000000a6 url(https://i.ibb.co/Wnqkpkg/slider2.jpg) center;
+     background-size: cover;
+     background-attachment: fixed;
+     background-blend-mode: multiply;
+     background-repeat: no-repeat;
+ }
